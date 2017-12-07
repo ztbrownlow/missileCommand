@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 06.12.2017 17:51:19
+# File Created: 07.12.2017 00:38:23
 
 newmtl 02___Default
 	Ns 10.0000
@@ -10,7 +10,7 @@ newmtl 02___Default
 	illum 2
 	Ka 0.5882 0.5882 0.5882
 	Kd 0.5882 0.5882 0.5882
-	Ks 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
 	map_Ka C:\Users\Zach\Desktop\csc461Final\gradient_test.png
 	map_Kd C:\Users\Zach\Desktop\csc461Final\gradient_test.png
